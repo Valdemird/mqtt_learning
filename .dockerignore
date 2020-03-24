@@ -1,0 +1,5 @@
+/node_modules
+writer.js
+docker-compose.yml
+dockerfile
+mosquitto.conf
